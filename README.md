@@ -14,7 +14,6 @@
 - 📫 Reach me at **sachinvk867@gmail.com**
 
 --
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-vk-b2964833a/" target="_blank">
@@ -25,12 +24,11 @@
   </a>
 </p>
 
----
-
+--
 ## 💻 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,mysql,postgres,aws,nginx,tailwind,bootstrap,postman,figma&perline=10" />
 </p>
 
----
+--
 
