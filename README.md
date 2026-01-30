@@ -11,7 +11,6 @@
 - 💼 Experience in building **scalable applications**  
 - 📫 Reach me at **sachinvk867@gmail.com**
 
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-vk-b2964833a/" target="_blank">
