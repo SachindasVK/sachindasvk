@@ -1,7 +1,7 @@
 <h1 align="left">SACHIN VK</h1>
 
 ## 🧑‍💻 About Me:
-- 👨‍💻 I'm a **Full Stack Developer** with **3.5 years** of hands-on experience  
+- 👨‍💻 I'm a **Full Stack Developer** 
 - 🚀 Skilled in building scalable web applications using **MERN Stack**  
 - 📫 Reach me at: **sachinvk867@gmail.com**
 
@@ -20,7 +20,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
