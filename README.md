@@ -1,34 +1,88 @@
-<h1 align="left">SACHIN VK</h1>
+<h1 align="center">
+  Hi 👋, I'm Sachin vk
+</h1>
 
-## 🧑‍💻 About Me:
-- 👨‍💻 I'm a **Full Stack Developer** 
-- 🚀 Skilled in building scalable web applications using **MERN Stack**  
-- 📫 Reach me at: **sachinvk867@gmail.com**
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;3.5%2B+Years+Experience" />
+</p>
 
 ---
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+## 👨‍💻 About Me
+- 🚀 **Full Stack Developer**  
+- 🧠 Strong in **MERN Stack** & scalable backend systems  
+- 💼 Experience in building **scalable applications**  
+- 📫 Reach me at **sachinvk867@gmail.com**
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,postgres,aws,nginx,docker,tailwind,bootstrap,firebase,vercel,netlify,postman,figma&perline=8" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Student Management System
+- Full CRUD system with authentication
+- Tech: **Node.js, Express, MongoDB, EJS, TypeScript**
+- 🔗 [Repository](https://github.com/YOUR_USERNAME/student-management)
+
+---
+
+### 🔹 E-Commerce Web Application
+- Product listing, cart, orders, admin dashboard
+- Tech: **React, Redux, Node.js, MongoDB**
+- 🔗 [Repository](https://github.com/YOUR_USERNAME/ecommerce-app)
+
+---
+
+### 🔹 Real-Time Chat Application
+- WebSocket-based real-time messaging
+- Tech: **React, Socket.IO, Node.js**
+- 🔗 [Repository](https://github.com/YOUR_USERNAME/chat-app)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 💡 “Code is not just syntax, it’s problem-solving.”
