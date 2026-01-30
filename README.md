@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;3.5%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;" />
 </p>
 
 ---
@@ -29,32 +29,9 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,postgres,aws,nginx,docker,tailwind,bootstrap,firebase,vercel,netlify,postman,figma&perline=8" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,mysql,postgres,aws,nginx,tailwind,bootstrap,postman,figma&perline=10" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Student Management System
-- Full CRUD system with authentication
-- Tech: **Node.js, Express, MongoDB, EJS, TypeScript**
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/student-management)
-
----
-
-### 🔹 E-Commerce Web Application
-- Product listing, cart, orders, admin dashboard
-- Tech: **React, Redux, Node.js, MongoDB**
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/ecommerce-app)
-
----
-
-### 🔹 Real-Time Chat Application
-- WebSocket-based real-time messaging
-- Tech: **React, Socket.IO, Node.js**
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/chat-app)
 
 ---
 
@@ -71,18 +48,9 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## ✨ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-
-### 💡 “Code is not just syntax, it’s problem-solving.”
