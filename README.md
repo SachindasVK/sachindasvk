@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;" />
 </p>
+
 --
 
 ## 👨‍💻 About Me
@@ -12,7 +13,7 @@
 - 💼 Experience in building **scalable applications**  
 - 📫 Reach me at **sachinvk867@gmail.com**
 
----
+--
 
 ## 🌐 Connect With Me
 <p align="left">
