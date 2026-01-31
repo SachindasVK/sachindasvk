@@ -2,7 +2,7 @@
   Hi 👋, I'm Sachin 
 </h1>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=48BDF8&center=true&vCenter=true&width=300&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=48BDF8&center=true&vCenter=true&width=300&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web;" />
 </p>
 
 ## 👨‍💻 About Me
