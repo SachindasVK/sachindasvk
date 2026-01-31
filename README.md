@@ -1,10 +1,6 @@
 <h1 align="left">
   Hi 👋, I'm Sachin 
 </h1>
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=48BDF8&center=true&vCenter=true&width=300&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web;" />
-</p>
-
 ## 👨‍💻 About Me
 - 🚀 **Full Stack Developer**  
 - 🧠 Strong in **MERN Stack** & scalable backend systems  
