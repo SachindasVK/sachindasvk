@@ -20,5 +20,5 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?c,java,i=html,css,js,ts,nodejs,express,mongodb,mysql,postgres,aws,nginx,tailwind,bootstrap,postman,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,java,js,ts,nodejs,express,mongodb,mysql,postgres,aws,nginx,tailwind,bootstrap,postman,figma&perline=10" />
 </p>
